@@ -15,6 +15,9 @@ Instrucciones para obtener los datos en el colab:
   4. Luego, en Google Colab, al ejecutar la tercera celda, se abrirá un espacio en el que debes ingresar primero tu nombre de          usuario y luego la clave proporcionada en el archivo .json.
   5. Con estos pasos, habrás obtenido acceso al dataset en Google Colab.
 
+Enlace al video de la segunda entrega:
+https://youtu.be/wLseZqerd04
+
 
 
 
