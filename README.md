@@ -2,8 +2,8 @@
 Este repositorio contendrá todos los trabajos realizados en la asignatura Introducción a la inteligencia artificial.
 
 Integrantes del grupo:
-  Michael Stiven Zapata Giraldo - 1017172358 - Ingenieria Electrica
-  Daniel Vergara de Leon - 1002388181 - Ingenieria Electrica
+  1. Michael Stiven Zapata Giraldo - 1017172358 - Ingenieria Electrica
+  2. Daniel Vergara de Leon - 1002388181 - Ingenieria Electrica
 
 Enlace al dataset en kaggle:
   https://www.kaggle.com/competitions/playground-series-s3e20/data?select=train.csv
