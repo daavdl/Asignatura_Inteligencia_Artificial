@@ -9,8 +9,12 @@ Enlace al dataset en kaggle:
   https://www.kaggle.com/competitions/playground-series-s3e20/data?select=train.csv
 
 Instrucciones para obtener los datos en el colab:
-  1. Abrimos el enlace anterio donde encontraremos la competencia de kaggle, nos incribimos a la competencia y aceptamos las reglas.
-  2. En la pagina de kaggle nos vamos a la opcion de configuracion, aquí crearemos un token en el indice API.
-  3. Al completar el paso anterior se nos descargará un archivo .json con nuestro username y una key.
-  4. Ya en el colab al correr la tercera celda, se nos abrirá un espacio, primero ingresamos el username y luego la key que nos dio      el archivo .json
-  5. Así ya tenemos acceso al dataset en el colab. 
+  1. Abre el enlace proporcionado anteriormente, el cual te dirigirá a la competencia de Kaggle. Regístrate en la competencia y        acepta las reglas.
+  2. En la página de Kaggle, dirígete a la opción de configuración. Aquí, genera un token en la sección de índice de API.
+  3. Una vez completado el paso anterior, se descargará un archivo en formato .json que contendrá tu nombre de usuario y una           clave única.
+  4. Luego, en Google Colab, al ejecutar la tercera celda, se abrirá un espacio en el que debes ingresar primero tu nombre de          usuario y luego la clave proporcionada en el archivo .json.
+  5. Con estos pasos, habrás obtenido acceso al dataset en Google Colab.
+
+
+
+
